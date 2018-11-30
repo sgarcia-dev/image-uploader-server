@@ -8,7 +8,7 @@ Created because I couldn't find a drastically simplified, easy to use example on
 * Create a `.env` file and add environment variables for `CLIENT_ORIGIN`, and all cloudinary variables like `CLOUD_NAME`, `API_SECRET`, and `API_KEY`. (You can get the last 3 by [Signing Up for a Cloudinary Account](https://cloudinary.com/signup))
 * Run both apps via `npm start`
 
-# Helpful Articles that can be used to understan what's going on
+# Helpful Articles that I used while creating this app (might help clear some questions)
 * An explanation on what **multipart/form-data** is and how it works, the contentType of choice for fileUpload in HTTP,  https://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean
 * A basic Node/Express file upload/download application, Doesn't work 100% but was a good guide, https://gist.github.com/bingeboy/5589501
 * How to handle form data unsupported by BodyParser in ExpressJS, https://stackoverflow.com/questions/37630419/how-to-handle-formdata-from-express-4
