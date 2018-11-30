@@ -1,6 +1,5 @@
-![Cloudinary Logo](https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png)
 # Image Uploder Server
-A basic image uploader server built using Node, Express and Cloudinary's Node SDK. Relies on the [Image Uploader Client](https://github.com/sgarcia-dev/image-uploader-client) to work.
+A basic image uploader server built using Node, Express and Cloudinary's Node SDK. Relies on the [Image Uploader Client](https://github.com/sgarcia-dev/image-uploader-client) built with React to work. Created to serve as a guide for people who are having trouble getting basic image uploading to work on Cloudinary. Based on the app built by Jesse Heaslip's [Simple Image Upload with React](https://codeburst.io/react-image-upload-with-kittens-cc96430eaece) article, but simplified and with all the non essential stuff which made this harder to understand by complete beginners removed.
 
 # How to Run Locally
 * Clone this repository as well as the [image-uploader-server client](https://github.com/sgarcia-dev/image-uploader-client).
