@@ -36,4 +36,4 @@ app.post('/image-upload', (req, res) => {
     Promise.all(promises).then(results => res.json(results));
 });
 
-app.listen(process.env.PORT || 8080, () => console.log('👍'));
+app.listen(process.env.PORT || 8080, () => console.log('Server running !!!'));
