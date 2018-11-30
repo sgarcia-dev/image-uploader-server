@@ -15,3 +15,5 @@ Created because I couldn't find a drastically simplified, easy to use example on
 * express-form-data, an express middleware package that can be used to decode **multipart/form data**, https://www.npmjs.com/package/express-form-data
 * multer, another express middlware package that can be used to decode **multipart/form data**, https://www.npmjs.com/package/multer
 * Compares multer, and other multipart express middleware alterantives, https://stackoverflow.com/questions/40099016/difference-between-multer-multiparty-and-connect-multiparty-nodejs
+* Cloudinary's NodeSDK Guide, https://cloudinary.com/documentation/
+* The wonderful foundation for this app, [Jesse Heaslip](https://codeburst.io/@funador)'s [Simple Image Upload with React](https://codeburst.io/react-image-upload-with-kittens-cc96430eaece) article.
