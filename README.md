@@ -4,7 +4,7 @@ A basic image uploader server built using Node, Express and Cloudinary's Node SD
 Created because I couldn't find a drastically simplified, easy to use example on how to upload and view images uploaded to Cloudinary through NodeJS SDK, so I made one. The initial source code was the app built by [Jesse Heaslip](https://codeburst.io/@funador)'s [Simple Image Upload with React](https://codeburst.io/react-image-upload-with-kittens-cc96430eaece) article, but I removed and made changes were necessart to remove all the things I found could be confusing to complete React beginners.
 
 # How to Run Locally
-* Clone this repository as well as the [image-uploader-server client](https://github.com/sgarcia-dev/image-uploader-client).
+* Clone this repository as well as the [image-uploader-server](https://github.com/sgarcia-dev/image-uploader-client).
 * Create a `.env` file and add environment variables for `CLIENT_ORIGIN`, and all cloudinary variables like `CLOUD_NAME`, `API_SECRET`, and `API_KEY`. (You can get the last 3 by [Signing Up for a Cloudinary Account](https://cloudinary.com/signup))
 * Run both apps via `npm start`
 
